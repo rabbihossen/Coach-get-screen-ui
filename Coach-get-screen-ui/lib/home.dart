@@ -131,12 +131,12 @@ class _MyHomePageState extends State<MyHomePage> {
             mainAxisSpacing: 4.0,
             shrinkWrap: true,
             children: <Widget>[
-              _buildCard('Joy Ahmed', 'Available', 1,'image/yasin.jpg'),
+              _buildCard('Joy Ahmed', 'Available', 1,'image/joy ahmed.jpg'),
               _buildCard('Yasin', 'Away', 2,'image/yasin.jpg'),
-              _buildCard('Abu Bakar', 'Away', 3,'image/yasin.jpg'),
-              _buildCard('Rasel', 'Available', 4,'image/yasin.jpg'),
+              _buildCard('Abu Bakar', 'Away', 3,'image/abu bakar.jpg'),
+              _buildCard('Rasel', 'Available', 4,'image/rasel.jpg'),
               _buildCard('Zahid', 'Away', 5,'image/yasin.jpg'),
-              _buildCard('Foyzur', 'Available', 6,'image/yasin.jpg'),
+              _buildCard('Foyzur', 'Available', 6,'image/foyzur.jpg'),
 
             ],
           )
